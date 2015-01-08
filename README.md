@@ -1,5 +1,5 @@
 # sundials-eigen-cpp
-Eigen integration with SUNDIALS with a simplified C++ wrapper.
+<a href="http://eigen.tuxfamily.org">Eigen</a> integration with <a href="https://computation.llnl.gov/casc/sundials/main.html">SUNDIALS</a> with a simplified C++ wrapper.
 
 Features (under development):
 <ul>
